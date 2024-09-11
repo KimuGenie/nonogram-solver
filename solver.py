@@ -265,4 +265,3 @@ class NonogramSolver:
         sys.stdout.write(board_txt)
 
         self.iteration += 1
-
